@@ -8,4 +8,4 @@ year: 2026
 
 ## Example Project
 
-Details about this project go here.
+Details about this project go here. More info

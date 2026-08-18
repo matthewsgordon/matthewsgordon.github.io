@@ -1,18 +1,31 @@
-# Site settings
-title: Matthew Gordon
-email: your-email@example.com
-description: >-
-  Personal website of Matthew Gordon — blog posts, projects, publications,
-  and a bit about me.
+title: My Portfolio
+email: matthewsg210703@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal portfolio, here you can see projects i have been a part of 
+  along with some personal projects i have done in my free time. I have a love 
+  for computers and a mind for problem solving. If you wanrt to see some of the 
+  projects i have done, you can look at my GitHub username below.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://matthewsgordon.github.io" # the base hostname & protocol
-twitter_username: matthewsgordon
-github_username: matthewsgordon
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: matthewsgordon
+github_username:  matthewsgordon
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 # Collections
 collections:
   projects:
     output: true
+
+# Defaults — apply the page layout to all project entries
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: page
 
 # Build settings
 markdown: kramdown
