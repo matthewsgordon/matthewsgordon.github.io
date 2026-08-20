@@ -24,9 +24,9 @@ This projects goal was to create a framework to investigate different NPC pathfi
 ### Other Projects 
 The above projects are the two biggest and most important projects i have done personally. But i have done other small projects either in my free time or for my undergraduate course, the links for which can be found below. 
 
-* [GitHub Link](https://github.com/matthewsgordon/gravity)
-* [GitHub Link](https://github.com/matthewsgordon/ball-game)
-* [GitHub Link](https://github.com/matthewsgordon/minesweeper)
-* [GitHub Link](https://github.com/matthewsgordon/solar-system)
-* [GitHub Link](https://github.com/matthewsgordon/cube-hunt-game)
+* [Gravity](https://github.com/matthewsgordon/gravity)
+* [Ball Game](https://github.com/matthewsgordon/ball-game)
+* [Minesweeper Unity](https://github.com/matthewsgordon/minesweeper)
+* [Solar System](https://github.com/matthewsgordon/solar-system)
+* [Cube Hunt game](https://github.com/matthewsgordon/cube-hunt-game)
 
