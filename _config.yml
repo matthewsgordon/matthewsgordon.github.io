@@ -3,7 +3,7 @@ email: matthewsg210703@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal portfolio, here you can see projects i have been a part of 
   along with some personal projects i have done in my free time. I have a love 
-  for computers and a mind for problem solving. If you wanrt to see some of the 
+  for computers and a mind for problem solving. If you want to see some of the 
   projects i have done, you can look at my GitHub username below.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
